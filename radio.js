@@ -47,7 +47,7 @@ const ffmpeg = require ('fluent-ffmpeg');
 const ffmpegPath = require('@ffmpeg-installer/ffmpeg').path;
 
 
-const cred = "AIzaSyDpfXopNsWrgWsRKWNF8c-MxKQZ2itj7Cg"
+const cred = "{youtube-token}"
 
 
 
