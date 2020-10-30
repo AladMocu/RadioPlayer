@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ezstream>
+  <url>http://localhost:8000/stream</url>
+  <sourceuser>source</sourceuser>
+  <format>MP3</format>
+  <sourcepassword>hackme</sourcepassword>
+  <filename>/home/ubuntu/radio/node_modules/icy-streamer/playlist.m3u</filename>
+  <svrinfoname>My Stream</svrinfoname>
+  <svrinfourl/>
+  <svrinfogenre>RockNRoll</svrinfogenre>
+  <svrinfodescription>This is a stream description</svrinfodescription>
+  <svrinfobitrate>128</svrinfobitrate>
+  <svrinfochannels>2</svrinfochannels>
+  <svrinfosamplerate>44100</svrinfosamplerate>
+  <svrinfopublic>0</svrinfopublic>
+</ezstream>
